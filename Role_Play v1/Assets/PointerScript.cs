@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChangeColor : MonoBehaviour
+public class PointerScript : MonoBehaviour
 {
-    public void Red()
+   public void Red()
     {
         GetComponent<Renderer>().material.color = Color.red;
     }
