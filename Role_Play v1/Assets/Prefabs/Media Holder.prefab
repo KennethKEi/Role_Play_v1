@@ -43,10 +43,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c554ef6a05e9a8c4da6978087cdfecd4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aSound: {fileID: 8300000, guid: 1053fbcf39ba21549907a22f3a75a2aa, type: 3}
-  bSound: {fileID: 8300000, guid: 96374db007b573c41b046899251a8ffb, type: 3}
-  cSound: {fileID: 8300000, guid: e5a8d56b0f1be614cb52dcfdad992db1, type: 3}
-  dSound: {fileID: 0}
-  eSound: {fileID: 0}
-  fSound: {fileID: 0}
-  gSound: {fileID: 0}
+  aSound: {fileID: 8300000, guid: 34e2d38a0bb646843bb57b18523a19e2, type: 3}
+  bSound: {fileID: 8300000, guid: 88a1495cd4e97984cb9dd9fa7895b933, type: 3}
+  cSound: {fileID: 8300000, guid: f68a83fc59cb6314a99f88cda1a6f949, type: 3}
+  dSound: {fileID: 8300000, guid: 68d355bf60d781d449a61e77c53565a5, type: 3}
+  eSound: {fileID: 8300000, guid: fe6500a711289bb4296201d9c28e6ee1, type: 3}
+  fSound: {fileID: 8300000, guid: 43308fefb452a45458b1ce4781f5cf2b, type: 3}
+  gSound: {fileID: 8300000, guid: 3f8b8c6a2b543a742a14273eaaf9daa4, type: 3}
+  hSound: {fileID: 8300000, guid: c8af2afc9cb41da4286311654d9e0ca6, type: 3}
+  iSound: {fileID: 8300000, guid: 536b2cce8a52bcf46ad0376f86924b46, type: 3}
+  jSound: {fileID: 8300000, guid: 9ea880c1642d00d41852f974616a23b4, type: 3}
+  kSound: {fileID: 8300000, guid: cde531957f560e945945952209824ec3, type: 3}
+  lSound: {fileID: 8300000, guid: ace25acc6ba41d14d9cecbe8e0c35b40, type: 3}
+  mSound: {fileID: 8300000, guid: 10d45945d4cb4f1419ff85324e0bdceb, type: 3}
+  nSound: {fileID: 8300000, guid: f4622bade14f1d2498436586dd4eed4d, type: 3}
+  oSound: {fileID: 8300000, guid: bacf3962773144d48a1cbe5b958bfbbe, type: 3}
+  pSound: {fileID: 8300000, guid: ee6ee82226ea6ec41b36b1edc472a888, type: 3}
+  qSound: {fileID: 8300000, guid: d5b722fcae977de40bba3056b941b3d7, type: 3}
+  rSound: {fileID: 8300000, guid: 2e39bafa63afc1d45b91784799229ca5, type: 3}
+  sSound: {fileID: 8300000, guid: 0cd7080506b44f0448d2a9ba56125ad6, type: 3}
+  tSound: {fileID: 8300000, guid: cf64b596afc4783439b134e4526b5f65, type: 3}
+  uSound: {fileID: 8300000, guid: e02a6755f521a4246822bae2086ccac4, type: 3}
+  vSound: {fileID: 8300000, guid: 0d9462f4e97f44e43bc9ea5df3dafa58, type: 3}
+  wSound: {fileID: 8300000, guid: 862722611db79b74ab1e2a9fdca3fc72, type: 3}
+  xSound: {fileID: 8300000, guid: 22082f16064c4be4483cbb09ef77209e, type: 3}
+  ySound: {fileID: 8300000, guid: b899b7f7c9979e743bab25e9494d3c65, type: 3}
+  zSound: {fileID: 8300000, guid: de4fbadc069f49540a413c71dde50b16, type: 3}
